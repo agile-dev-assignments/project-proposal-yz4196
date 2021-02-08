@@ -1,2 +1,6 @@
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Project Proposal: analyzing and recommending movies 
+Proposal by Chris Zheng
+## What and why?
+I propose a project that aims to build a program that processes movie review data and optionally make recommendations to users based on their preferences. The bulk of the function of this hypothetical program is information extraction, which seeks to automate some of the more tedious aspects of finding new entertainments.
+
+Imagine a new movie coming out, the first question many people ask about is whether the movie is good. While that information is not difficult to locate online, it is a difficult and time consuming proccess that is additionally hindered by the subjectivity of each individual. In this way automating the information extraction process is helpful. Additionally, the features of the program can be multifaceted, including automatic generation of summary for lengthy reviews, and extracting the key sentiments across multiple reviews. Of course, the program needs not be limited to movies, it can be extended to apply to  different medias, or even acedemia.
